@@ -18,6 +18,7 @@ A small device which would sit in a music studio alongside a producer. The funct
 * LED's -  To Indicate if the level is at a safe or unsafe level
 
 ## Project Repository
-TODO: Create a repository for your project. You can add this proposal to it!
+
+[Github Repo](https://github.com/luke123halley/ProjectHear)
 
 
