@@ -16,9 +16,12 @@ A small device which would sit in a music studio alongside a producer. The funct
 * Python - to write the program 
 * Microphone Module - To detect the DB level
 * LED's -  To Indicate if the level is at a safe or unsafe level
+<<<<<<< HEAD
 
 ## Project Repository
 
 [Github Repo](https://github.com/luke123halley/ProjectHear)
 
 
+=======
+>>>>>>> origin/master
