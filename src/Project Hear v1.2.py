@@ -1,3 +1,6 @@
+# Luke Halley - IOT - WIT
+# Github Repo https://github.com/lukehalley/ProjectHear
+
 #Project Hear V1.1
 #Writing an algorithm which gets the average of 8 readings and sets the pin
 
