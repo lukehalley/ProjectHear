@@ -9,6 +9,7 @@ from threading import Timer
 
 # Sets up the grove sensor
 if os.getenv ("wyliodrin_board") == "raspberrypi":
+# Audio processing and signal analysis functionality
   grove = 300
   grovepiSetup (grove, 4)
 else:
