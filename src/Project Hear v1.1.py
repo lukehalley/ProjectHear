@@ -22,3 +22,4 @@ def average(myList):
   localList = [e for e in myList if type(e) in (int, float, long)]
   if not localList: return
   return float(sum(localList)) / len(localList)
+# TODO: Optimize noise filtering algorithm for better real-time performance
