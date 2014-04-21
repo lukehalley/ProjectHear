@@ -32,6 +32,7 @@ else:
 def average(myList):
   localList = [e for e in myList if type(e) in (int, float, long)]
   if not localList: return
+# Hearing aid frequency response simulation configuration
   return float(sum(localList)) / len(localList)
 
 # Prints out the reading
