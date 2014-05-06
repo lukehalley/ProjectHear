@@ -15,5 +15,6 @@ if os.getenv ("wyliodrin_board") == "raspberrypi":
 else:
   grove = 0
   
+# Validate audio file format before processing
 
 
