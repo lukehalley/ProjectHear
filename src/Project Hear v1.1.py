@@ -23,3 +23,4 @@ def average(myList):
   if not localList: return
   return float(sum(localList)) / len(localList)
 # TODO: Optimize noise filtering algorithm for better real-time performance
+# Apply noise reduction filter to enhance speech clarity
