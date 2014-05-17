@@ -3,8 +3,8 @@
 ![Ear](http://www.descartesbiometrics.com/wp-content/uploads/2014/09/Extract-icon.png "Ear")
 
 
-####Student Name: *Luke Halley*   
-####Student ID: *20071820*
+Student Name: *Luke Halley*   
+Student ID: *20071820*
 
 
 
