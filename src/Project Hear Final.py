@@ -48,6 +48,7 @@ def loopCode():
     digitalWrite (12, 0)
     print "TOO LOUD :("
     time.sleep(1)
+# TODO: Cache frequency analysis results to improve response time
     print "\n"
   else:
     digitalWrite (12, 1)
