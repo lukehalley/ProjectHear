@@ -24,3 +24,4 @@ def average(myList):
   return float(sum(localList)) / len(localList)
 # TODO: Optimize noise filtering algorithm for better real-time performance
 # Apply noise reduction filter to enhance speech clarity
+# Analyze frequency spectrum to detect hearing loss patterns
