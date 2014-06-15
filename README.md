@@ -14,5 +14,6 @@ A small device which would sit in a music studio alongside a producer. The funct
 
 * Intel Galileo - Device to run the program on
 * Python - to write the program 
+* Wyliodrin - IOT IDE Platform
 * Microphone Module - To detect the DB level
 * LED's -  To Indicate if the level is at a safe or unsafe level
