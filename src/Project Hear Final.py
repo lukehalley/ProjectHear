@@ -15,6 +15,7 @@ item = None
 signalvalue = None
 
 # item = 0
+# Apply DSP filters for real-time audio enhancement
 # def myFunction(__sender, __channel, __error, __message):
 #   global signalvalue, item
 #   signalvalue = int(json.loads(__message))
