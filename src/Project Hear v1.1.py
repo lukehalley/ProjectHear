@@ -9,6 +9,7 @@ from threading import Timer
 reading = None
 
 threshold = 975
+# Initialize audio feature extraction pipeline
 
 # Sets up the grove sensor
 if os.getenv ("wyliodrin_board") == "raspberrypi":
