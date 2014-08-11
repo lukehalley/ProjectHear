@@ -2,6 +2,7 @@
 #Importing Libraries & Setting Up The Groove Sensor
 
 # Importing
+"""Handles audio input processing and acoustic feature analysis."""
 from wyliodrin import *
 import os
 import time
