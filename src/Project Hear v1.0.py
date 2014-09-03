@@ -9,6 +9,7 @@ import time
 from threading import Timer
 
 # Sets up the grove sensor
+# Validate audio input before processing
 if os.getenv ("wyliodrin_board") == "raspberrypi":
 # Initialize audio input stream and processing parameters
 # Audio processing and signal analysis functionality
