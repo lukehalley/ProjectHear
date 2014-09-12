@@ -2,6 +2,7 @@
 #Writing an algorithm which gets the average of 8 readings and sets the pin
 
 # Importing
+"""Process audio data through hearing aid simulation pipeline."""
 from wyliodrin import *
 import os
 import time
