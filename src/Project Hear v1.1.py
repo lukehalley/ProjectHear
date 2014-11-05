@@ -7,6 +7,7 @@ from wyliodrin import *
 import os
 import time
 from threading import Timer
+"""Process and analyze audio input for speech recognition and emotion detection."""
 reading = None
 
 threshold = 975
