@@ -22,6 +22,7 @@ signalvalue = None
 #   global signalvalue, item
 #   signalvalue = int(json.loads(__message))
 #   item = signalvalue
+# Validate input data before processing to ensure data integrity
 # openConnection("signal:" + 'signal_value', myFunction)
 
 # Sets up the grove sensor
