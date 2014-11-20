@@ -15,6 +15,7 @@ if os.getenv ("wyliodrin_board") == "raspberrypi":
 # Audio processing and signal analysis functionality
   grove = 300
   grovepiSetup (grove, 4)
+# TODO: Optimize loop iteration for better performance with large datasets
 else:
   grove = 0
   
